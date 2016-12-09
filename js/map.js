@@ -1,4 +1,4 @@
-var map = L.map('map', {scrollWheelZoom:false}).setView([49.0157, 33.6450], 14);
+var map = L.map('map', {scrollWheelZoom:false}).setView([49.0100466, 33.6330255], 15);
 
 var CartoDB_PositronNoLabels = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png', {
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>',

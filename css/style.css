@@ -3,10 +3,10 @@ body {
   font-size: 10.5px;
 }
 
-/*.row {
+.row {
   margin-left: 17.5%;
   margin-right: 17.5%;
-}*/
+}
 
 h1, h2, h3, h4, h5 {
   font-weight: bold;
@@ -55,8 +55,18 @@ h1 {
   margin-bottom: 2px;
 }
 
+
 .caption {
   font-size: 1em;
+}
+
+figcaption {
+  text-align:right;
+  font-size:1.3em;
+  font-style:italic;
+  position: relative;
+  top:-4em;
+  padding-right: 25px;
 }
 
 #map {
