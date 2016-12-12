@@ -55,6 +55,10 @@ h1 {
   margin-bottom: 2px;
 }
 
+iframe {
+  min-height: 315px;
+}
+
 
 .caption {
   font-size: 1em;
