@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "lat": 49.017526, "lon": 33.624436, "name": "бар Берлога, точка без ліцензії", "address": "вулиця  Добровольського 87\/1" }, "geometry": { "type": "Point", "coordinates": [ 33.624436, 49.017526 ] } },
+{ "type": "Feature", "properties": { "lat": 49.011243, "lon": 33.63223, "name": "малосімейка, точка продажу самогону", "address": "вулиця  Добровольського, 37" }, "geometry": { "type": "Point", "coordinates": [ 33.63223, 49.011243 ] } },
+{ "type": "Feature", "properties": { "lat": 49.009469, "lon": 33.649853, "name": "гуртожиток, точка продажу самогону", "address": "вулиця  Строна, 23" }, "geometry": { "type": "Point", "coordinates": [ 33.649853, 49.009469 ] } },
+{ "type": "Feature", "properties": { "lat": 49.007397, "lon": 33.636274, "name": "гуртожиток, точка продажу самогону", "address": "вулиця Героїв Дніпра, 30" }, "geometry": { "type": "Point", "coordinates": [ 33.636274, 49.007397 ] } },
+{ "type": "Feature", "properties": { "lat": 49.015362, "lon": 33.639513, "name": "гуртожиток, точка продажу самогону", "address": "вулиця  Миру, 8" }, "geometry": { "type": "Point", "coordinates": [ 33.639513, 49.015362 ] } },
+{ "type": "Feature", "properties": { "lat": 49.006052, "lon": 33.649471, "name": "гуртожиток, точка продажу самогону", "address": "вулиця  Портова,1" }, "geometry": { "type": "Point", "coordinates": [ 33.649471, 49.006052 ] } }
+]
+}
