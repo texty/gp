@@ -56,7 +56,8 @@ h1 {
 }
 
 iframe {
-  min-height: 315px;
+  min-height: 400px;
+  margin-bottom: 20px;
 }
 
 
